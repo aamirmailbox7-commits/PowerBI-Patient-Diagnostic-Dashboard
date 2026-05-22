@@ -1,5 +1,7 @@
 # 🏥 Databuzz Patient Diagnostic Dashboard
 
+![Dashboard Demo](PBIDesktop_G5ln7NrNzC.gif)
+
 ![Dashboard Overview](1.PNG)
 
 ## 🔍 Dashboard Overview
