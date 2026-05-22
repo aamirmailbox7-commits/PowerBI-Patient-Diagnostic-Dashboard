@@ -2,7 +2,11 @@
 
 ![Dashboard Demo](PBIDesktop_G5ln7NrNzC.gif)
 
-![Dashboard Overview](1.PNG)
+## 🏆 Award & Recognition
+This project was awarded the **Power BI Storyteller Certificate** in the March 2026 Patient Diagnostic Dashboard competition hosted by **DataBuzz Ltd**. 
+
+![Power BI Storyteller Certificate](2.PNG)
+
 
 ## 🔍 Dashboard Overview
 The Power BI dashboard tracks **7,274 unique patients** with a **31% high-risk rate** and an average visit gap of **214 days**. It covers blood test timelines, symptom tracking, disease indicators (Liver, Thyroid, Asthma, Diabetes, BP), and recommended medications per patient visit.
@@ -59,6 +63,8 @@ P00342        →    P00342-VA  (Vijayawada)
 - Cleaning logic documented in Power Query M steps
 
 ---
+
+![Dashboard Overview](1.PNG)
 
 > **Dashboard:** Databuzz Patient Diagnostic Dashboard  
 > **Date:** April 2026  
