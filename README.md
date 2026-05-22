@@ -5,7 +5,7 @@
 ## 🏆 Award & Recognition
 This project was awarded the **Power BI Storyteller Certificate** in the March 2026 Patient Diagnostic Dashboard competition hosted by **DataBuzz Ltd**. 
 
-![Power BI Storyteller Certificate](2.PNG)
+![Power BI Storyteller Certificate](2.png)
 
 
 ## 🔍 Dashboard Overview
